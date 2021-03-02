@@ -1,4 +1,5 @@
-![sunshine](./sunshine.jpeg)
+
+<img src="./sunshine.jpeg" width="100">
 
 
 ## Long Journey [Command Line Javascript Application]
