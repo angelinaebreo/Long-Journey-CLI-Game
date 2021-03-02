@@ -1,4 +1,4 @@
-![sunshine](sunshine.jpg)
+![sunshine](./sunshine.jpg)
 
 
 ## Long Journey [Command Line Javascript Application]
